@@ -3,3 +3,4 @@ https://github.com/HongKaiLuo/Python-Beginner/blob/main/1-1Read%20CSV%20file.ipy
 1-2 Write a new csv file.
 https://github.com/HongKaiLuo/Python-Beginner/blob/main/1-2Write%20CSV.ipynb
 1-3 I want to say "Thanks" to you.
+https://github.com/HongKaiLuo/Python-Beginner/pull/1#issuecomment-2058845353
